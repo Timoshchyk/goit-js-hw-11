@@ -1,5 +1,5 @@
-import 'izitoast/dist/css/iziToast.min.css';
 import 'simplelightbox/dist/simple-lightbox.min.css';
+import 'izitoast/dist/css/iziToast.min.css';
 import { showLoader } from './js/render-functions';
 import { fetchApi } from './js/pixabay-api';
 import { formEl } from './js/render-functions';

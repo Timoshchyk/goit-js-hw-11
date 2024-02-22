@@ -1,5 +1,4 @@
 import SimpleLightbox from 'simplelightbox';
-
 const form = document.querySelector('.form');
 const gallery = document.querySelector('.gallery');
 const userInput = document.querySelector('input');
